@@ -1,0 +1,1611 @@
+25.01 18:07:13 [Multicraft] Stopping server!
+25.01 18:07:13 [Server] INFO Saving...
+25.01 18:07:13 [Server] INFO Saved the world
+25.01 18:07:13 [Server] INFO Stopping the server
+25.01 18:07:13 [Server] INFO Stopping server
+25.01 18:07:13 [Server] INFO Disabling Skellett v1.9.6b
+25.01 18:07:13 [Server] INFO Disabling MultiWorldMoney v2.2
+25.01 18:07:13 [Server] INFO Disabling Multiverse-NetherPortals v2.5-b675
+25.01 18:07:13 [Server] INFO - Disabled
+25.01 18:07:13 [Server] INFO Disabling Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+25.01 18:07:13 [Server] INFO Disabling IslandWorld v8.0
+25.01 18:07:13 [Server] INFO Plugin disabled.
+25.01 18:07:13 [Server] INFO Disabling skRayFall v1.9.14
+25.01 18:07:13 [Server] INFO Bacon has been eaten. Make some more soon!
+25.01 18:07:13 [Server] INFO Disabling SharpSK v1.6.3
+25.01 18:07:13 [Server] INFO Successfully disabled.
+25.01 18:07:13 [Server] INFO Disabling GriefPrevention v9.3
+25.01 18:07:13 [Server] INFO GriefPrevention: GriefPrevention disabled.
+25.01 18:07:13 [Server] INFO Disabling SuperVanish v6.1.0
+25.01 18:07:13 [Server] INFO Disabling Multiverse-Portals v2.5.0-b751
+25.01 18:07:13 [Server] INFO Disabling CrazyAuctions v1.2.4
+25.01 18:07:13 [Server] INFO Disabling EssentialsChat v2.15.0.60
+25.01 18:07:13 [Server] INFO Disabling DiscordSRV v1.16.6
+25.01 18:07:14 [Server] INFO Skipped saving linked accounts because there were none
+25.01 18:07:14 [Server] INFO Saved metrics in 2ms
+25.01 18:07:14 [Server] INFO Shutdown completed in 116ms
+25.01 18:07:14 [Server] INFO Disabling Shopkeepers v2.2.2
+25.01 18:07:14 [Server] INFO Disabling KitBattle v4.1
+25.01 18:07:14 [Server] INFO Unregistered placeholder hook for placeholder: kitbattle
+25.01 18:07:14 [Server] INFO has been disabled!
+25.01 18:07:14 [Server] INFO Disabling Citizens v2.0.16-SNAPSHOT (build 1267)
+25.01 18:07:14 [Server] INFO Disabling InfoBoardReborn v2.0.4
+25.01 18:07:14 [Server] INFO InfoBoardReborn has been disabled (V.2.0.4)
+25.01 18:07:14 [Server] INFO Disabling Multiverse-Core v2.5.0-b727
+25.01 18:07:14 [Server] INFO Disabling SilkSpawners v5.0.2
+25.01 18:07:14 [Server] INFO Disabling BuycraftX v11.0.0
+25.01 18:07:14 [Server] INFO Disabling LiteBans v2.2.4
+25.01 18:07:14 [Server] INFO litebans-pool - Shutdown initiated...
+25.01 18:07:14 [Server] INFO litebans-pool - Shutdown completed.
+25.01 18:07:14 [Server] INFO v2.2.4 disabled.
+25.01 18:07:14 [Server] INFO Disabling Essentials v2.15.0.60
+25.01 18:07:14 [Server] INFO Unregistered placeholder expansion: essentials
+25.01 18:07:14 [Server] INFO [Vault][Economy] Essentials Economy unhooked.
+25.01 18:07:14 [Server] INFO Disabling skript-yaml v1.2.4
+25.01 18:07:14 [Server] INFO Disabling ArchonCrates v17.3
+25.01 18:07:14 [Server] INFO Disabling ChestCommands v3.2.0
+25.01 18:07:14 [Server] INFO Disabling Vote v2.0.1
+25.01 18:07:14 [Server] INFO Disabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:14 [Server] INFO Shutting down executor and waiting for any pending tasks...
+25.01 18:07:14 [Server] INFO Disabling HolographicDisplays v2.3.2
+25.01 18:07:14 [Server] INFO Disabling PlotSquared v19.01.12-b7ce2ef-2049
+25.01 18:07:14 [Server] INFO All DB transactions during this session are being validated (This may take a while if corrections need to be made)
+25.01 18:07:14 [Server] INFO Disabling PlayerParticles v4.5
+25.01 18:07:14 [Server] INFO Disabling Vault v1.7.1-b91
+25.01 18:07:14 [Server] INFO Unregistered placeholder expansion: vault
+25.01 18:07:14 [Server] INFO Disabling skript-mirror v0.19.1
+25.01 18:07:14 [Server] INFO Disabling AntiCheat v1.0
+25.01 18:07:14 [Server] INFO Disabling PermissionsEx v1.23.4
+25.01 18:07:14 [Server] INFO WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+25.01 18:07:14 [Server] INFO Disabling ProtocolLib v4.4.0
+25.01 18:07:14 [Server] INFO Disabling Votifier v1.9
+25.01 18:07:14 [Server] INFO Votifier disabled.
+25.01 18:07:14 [Server] INFO Disabling SkQuery v3.6.0-Lime
+25.01 18:07:14 [Server] WARN Protocol error. Ignoring packet - Socket closed
+25.01 18:07:14 [Server] INFO Disabling ClearLag v2.9.7
+25.01 18:07:14 [Server] INFO Clearlag is now disabled!
+25.01 18:07:14 [Server] INFO Disabling Skript v2.2-dev37c
+25.01 18:07:14 [Server] INFO Disabling WorldEdit v6.1.2;b3fbe8b
+25.01 18:07:14 [Server] INFO Disabling CoreProtect v2.12.0
+25.01 18:07:14 [Server] INFO Disabling icJukeBox v1.6.4
+25.01 18:07:14 [Server] INFO Disabling Tablist v1.3.2.9
+25.01 18:07:14 [Server] INFO Tablist> Tablist v1.3.2.9 disabled!!
+25.01 18:07:14 [Server] INFO Disabling ViaVersion v1.6.0
+25.01 18:07:14 [Server] INFO ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+25.01 18:07:14 [Server] INFO Disabling BattlePass v1.0-SNAPSHOT
+25.01 18:07:14 [Server] INFO Trying to save all player data...
+25.01 18:07:14 [Server] INFO Saved data for Diggyholedwarf99
+25.01 18:07:14 [Server] INFO Disabling ForceField v3.4
+25.01 18:07:14 [Server] INFO Disabling NametagEdit v4.4.0
+25.01 18:07:14 [Server] INFO Disabling PlugMan v2.1.5
+25.01 18:07:14 [Server] INFO Disabling VoidWorld v1.0
+25.01 18:07:14 [Server] INFO Disabling PlaceholderAPI v2.9.2
+25.01 18:07:14 [Server] INFO Saving players
+25.01 18:07:14 [Disconnect] User Diggyholedwarf99 has disconnected, reason: Server closed
+25.01 18:07:14 [Server] INFO Diggyholedwarf99 left the game.
+25.01 18:07:14 [Server] INFO Saving worlds
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Hub'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Hub_the_end'/The End
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Factions'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'SkyBlock'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'MineWars'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'SkyBlockNether'/Nether
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Survival'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'KitPVP'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'BuildersWorld'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Parkour'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Creative'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'TTT'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'Event'/Overworld
+25.01 18:07:14 [Server] INFO Saving chunks for level 'SurvivalNether'/Nether
+25.01 18:07:14 [Multicraft] Server shut down (stopping)
+25.01 18:07:14 [Multicraft] Server stopped
+25.01 18:07:17 [Multicraft] Loading server properties
+25.01 18:07:17 [Multicraft] Starting server!
+25.01 18:07:17 [Multicraft] Loaded config for "PaperSpigot 1.8.8 (Latest 1.8.8)"
+25.01 18:07:18 [Multicraft] Updating eula.txt file
+25.01 18:07:18 [Server] INFO Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128M; support was removed in 8.0
+25.01 18:07:18 [Server] INFO Loading libraries, please wait...
+25.01 18:07:21 [Server] INFO Starting minecraft server version 1.8.8
+25.01 18:07:21 [Server] INFO Loading properties
+25.01 18:07:21 [Server] INFO Default game type: SURVIVAL
+25.01 18:07:21 [Server] INFO This server is running CraftBukkit version git-PaperSpigot-"8b18730" (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+25.01 18:07:21 [Server] INFO Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+25.01 18:07:21 [Server] INFO Server Ping Player Sample Count: 12
+25.01 18:07:21 [Server] INFO Using 4 threads for Netty based IO
+25.01 18:07:21 [Server] INFO Debug logging is disabled
+25.01 18:07:21 [Server] INFO Data value allowed items: 
+25.01 18:07:21 [Server] INFO Generating keypair
+25.01 18:07:21 [Server] INFO Starting Minecraft server on 54.39.118.28:25619
+25.01 18:07:21 [Server] INFO Using epoll channel type
+25.01 18:07:21 [Server] INFO Set PluginClassLoader as parallel capable
+25.01 18:07:22 [Server] INFO Reflections took 74 ms to scan 12 urls, producing 13 keys and 21 values 
+25.01 18:07:22 [Server] INFO Loading PlaceholderAPI v2.9.2
+25.01 18:07:22 [Server] INFO Loading VoidWorld v1.0
+25.01 18:07:22 [Server] INFO Loading PlugMan v2.1.5
+25.01 18:07:22 [Server] INFO Loading NametagEdit v4.4.0
+25.01 18:07:22 [Server] INFO Loading ForceField v3.4
+25.01 18:07:22 [Server] INFO Loading BattlePass v1.0-SNAPSHOT
+25.01 18:07:22 [Server] INFO Loading ViaVersion v1.6.0
+25.01 18:07:22 [Server] INFO ViaVersion 1.6.0 is now loaded, injecting!
+25.01 18:07:22 [Server] INFO Loading block mapping...
+25.01 18:07:22 [Server] INFO Loading item mapping...
+25.01 18:07:22 [Server] INFO Loading new tags...
+25.01 18:07:22 [Server] INFO Loading enchantments...
+25.01 18:07:22 [Server] INFO Loading sound mapping...
+25.01 18:07:22 [Server] INFO Loading Tablist v1.3.2.9
+25.01 18:07:22 [Server] INFO Loading icJukeBox v1.6.4
+25.01 18:07:22 [Server] INFO Loading CoreProtect v2.12.0
+25.01 18:07:22 [Server] INFO Loading WorldEdit v6.1.2;b3fbe8b
+25.01 18:07:22 [Server] INFO Loading Skript v2.2-dev37c
+25.01 18:07:22 [Server] INFO Loading ClearLag v2.9.7
+25.01 18:07:22 [Server] INFO Loading SkQuery v3.6.0-Lime
+25.01 18:07:22 [Server] INFO Loading Votifier v1.9
+25.01 18:07:22 [Server] INFO Loading ProtocolLib v4.4.0
+25.01 18:07:22 [Server] INFO Loading PermissionsEx v1.23.4
+25.01 18:07:22 [Server] INFO Loading AntiCheat v1.0
+25.01 18:07:22 [Server] INFO Loading skript-mirror v0.19.1
+25.01 18:07:22 [Server] INFO Loading Vault v1.7.1-b91
+25.01 18:07:22 [Server] INFO Loading PlayerParticles v4.5
+25.01 18:07:22 [Server] INFO Loading PlotSquared v19.01.12-b7ce2ef-2049
+25.01 18:07:22 [Server] INFO Loading HolographicDisplays v2.3.2
+25.01 18:07:22 [Server] INFO Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:22 [Server] INFO Loading Vote v2.0.1
+25.01 18:07:22 [Server] INFO Loading ChestCommands v3.2.0
+25.01 18:07:22 [Server] INFO Loading ArchonCrates v17.3
+25.01 18:07:22 [Server] INFO Loading skript-yaml v1.2.4
+25.01 18:07:22 [Server] INFO Loading Essentials v2.15.0.60
+25.01 18:07:22 [Server] INFO Loading LiteBans v2.2.4
+25.01 18:07:22 [Server] INFO Loading BuycraftX v11.0.0
+25.01 18:07:22 [Server] INFO Loading SilkSpawners v5.0.2
+25.01 18:07:22 [Server] INFO Loading Multiverse-Core v2.5.0-b727
+25.01 18:07:22 [Server] INFO Loading InfoBoardReborn v2.0.4
+25.01 18:07:22 [Server] INFO Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+25.01 18:07:22 [Server] INFO Loading KitBattle v4.1
+25.01 18:07:22 [Server] INFO Loading Shopkeepers v2.2.2
+25.01 18:07:22 [Server] INFO Loading DiscordSRV v1.16.6
+25.01 18:07:22 [Server] INFO Loading EssentialsChat v2.15.0.60
+25.01 18:07:22 [Server] INFO Loading CrazyAuctions v1.2.4
+25.01 18:07:22 [Server] INFO Loading Multiverse-Portals v2.5.0-b751
+25.01 18:07:22 [Server] INFO Loading SuperVanish v6.1.0
+25.01 18:07:22 [Server] INFO Loading GriefPrevention v9.3
+25.01 18:07:22 [Server] INFO Loading SharpSK v1.6.3
+25.01 18:07:22 [Server] INFO Loading skRayFall v1.9.14
+25.01 18:07:22 [Server] INFO Loading IslandWorld v8.0
+25.01 18:07:22 [Server] INFO Loading Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+25.01 18:07:22 [Server] INFO Loading Multiverse-NetherPortals v2.5-b675
+25.01 18:07:22 [Server] INFO Loading MultiWorldMoney v2.2
+25.01 18:07:22 [Server] INFO Loading Skellett v1.9.6b
+25.01 18:07:22 [Server] INFO Enabling VoidWorld v1.0
+25.01 18:07:22 [Server] INFO Enabling ProtocolLib v4.4.0
+25.01 18:07:22 [Server] INFO Started structure compiler thread.
+25.01 18:07:22 [Server] INFO Enabling Vault v1.7.1-b91
+25.01 18:07:22 [Server] INFO [Economy] Essentials Economy found: Waiting
+25.01 18:07:22 [Server] INFO [Permission] PermissionsEx found: Waiting
+25.01 18:07:22 [Server] INFO [Permission] SuperPermissions loaded as backup permission system.
+25.01 18:07:22 [Server] INFO [Chat] PermissionsEx found: Waiting
+25.01 18:07:22 [Server] INFO Enabled Version 1.7.1-b91
+25.01 18:07:22 [Server] INFO Enabling PlotSquared v19.01.12-b7ce2ef-2049
+25.01 18:07:23 [Server] INFO Version is PlotSquared-19.1.12-b7ce2ef-2049
+25.01 18:07:23 [Server] WARN /tmp/sqlite-3.7.2-libsqlitejdbc.so (Permission denied)
+25.01 18:07:23 [Server] INFO Metrics enabled.
+25.01 18:07:23 [Server] INFO PlotSquared is using online UUIDs
+25.01 18:07:23 [Server] INFO PlotSquared hooked into WorldEdit.
+25.01 18:07:23 [Server] INFO Key: plot-expiry, Value: false
+25.01 18:07:23 [Server] INFO Key: kill-road-mobs, Value: false
+25.01 18:07:23 [Server] INFO Key: kill-road-items, Value: false
+25.01 18:07:23 [Server] INFO Key: worlds, Value: false
+25.01 18:07:23 [Server] INFO Key: worldedit-restrictions, Value: true
+25.01 18:07:23 [Server] INFO Key: database-purger, Value: false
+25.01 18:07:23 [Server] INFO Key: economy, Value: true
+25.01 18:07:23 [Server] INFO Key: block-cache, Value: true
+25.01 18:07:23 [Server] INFO Key: kill-road-vehicles, Value: false
+25.01 18:07:23 [Server] INFO Key: persistent-meta, Value: true
+25.01 18:07:23 [Server] INFO Key: ban-deleter, Value: false
+25.01 18:07:23 [Server] INFO Key: updater, Value: true
+25.01 18:07:23 [Server] INFO Key: database, Value: true
+25.01 18:07:23 [Server] INFO Key: plotme-converter, Value: true
+25.01 18:07:23 [Server] INFO Key: permission-cache, Value: true
+25.01 18:07:23 [Server] INFO Key: rating-cache, Value: true
+25.01 18:07:23 [Server] INFO Key: comment-notifier, Value: false
+25.01 18:07:23 [Server] INFO Key: metrics, Value: true
+25.01 18:07:23 [Server] INFO Key: chunk-processor, Value: false
+25.01 18:07:23 [Server] INFO Key: uuid-cache, Value: true
+25.01 18:07:23 [Server] INFO Key: events, Value: true
+25.01 18:07:23 [Server] INFO Key: commands, Value: true
+25.01 18:07:23 [Server] INFO PlotSquared is now enabled
+25.01 18:07:23 [Server] INFO Metrics enabled.
+25.01 18:07:23 [Server] INFO **** Beginning UUID conversion, this may take A LONG time ****
+25.01 18:07:24 [Server] INFO Preparing level "Hub"
+25.01 18:07:24 [Server] INFO -------- World Settings For [Hub] --------
+25.01 18:07:24 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:24 [Server] INFO Anti X-Ray: true
+25.01 18:07:24 [Server] INFO Engine Mode: 1
+25.01 18:07:24 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:24 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:24 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:24 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:24 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:24 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:24 [Server] INFO Random Lighting Updates: false
+25.01 18:07:24 [Server] INFO Structure Info Saving: true
+25.01 18:07:24 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:24 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:24 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:24 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:24 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:24 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:24 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:24 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:24 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:24 [Server] INFO View Distance: 10
+25.01 18:07:24 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:24 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:24 [Server] INFO Clear tick list: false
+25.01 18:07:24 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:24 [Server] INFO -------- World Settings For [Hub] --------
+25.01 18:07:24 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:24 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:24 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:24 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:24 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:24 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:24 [Server] INFO Fix TNT cannons: false
+25.01 18:07:24 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:24 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:24 [Server] INFO World async lighting: false
+25.01 18:07:24 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:24 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:24 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:24 [Server] INFO -------- World Settings For [Hub_the_end] --------
+25.01 18:07:24 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:24 [Server] INFO Anti X-Ray: true
+25.01 18:07:24 [Server] INFO Engine Mode: 1
+25.01 18:07:24 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:24 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:24 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:24 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:24 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:24 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:24 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:24 [Server] INFO Random Lighting Updates: false
+25.01 18:07:24 [Server] INFO Structure Info Saving: true
+25.01 18:07:24 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:24 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:24 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:24 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:24 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:24 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:24 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:24 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:24 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:24 [Server] INFO View Distance: 10
+25.01 18:07:24 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:24 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:24 [Server] INFO Clear tick list: false
+25.01 18:07:24 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:24 [Server] INFO -------- World Settings For [Hub_the_end] --------
+25.01 18:07:24 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:24 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:24 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:24 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:24 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:24 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:24 [Server] INFO Fix TNT cannons: false
+25.01 18:07:24 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:24 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:24 [Server] INFO World async lighting: false
+25.01 18:07:24 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:24 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:24 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:24 [Server] INFO Preparing start region for level 0 (Seed: -4216530450634206070)
+25.01 18:07:24 [Server] INFO Preparing start region for level 1 (Seed: -4216530450634206070)
+25.01 18:07:24 [Server] INFO Enabling PlaceholderAPI v2.9.2
+25.01 18:07:24 [Server] INFO Placeholder expansion registration initializing...
+25.01 18:07:24 [Server] INFO Successfully registered expansion: player
+25.01 18:07:24 [Server] INFO Successfully registered expansion: server
+25.01 18:07:24 [Server] INFO Successfully registered expansion: essentials
+25.01 18:07:24 [Server] INFO Successfully registered expansion: vault
+25.01 18:07:24 [Server] INFO Fetching available expansion information...
+25.01 18:07:24 [Server] INFO Enabling PlugMan v2.1.5
+25.01 18:07:24 [Server] INFO Enabling NametagEdit v4.4.0
+25.01 18:07:24 [Server] INFO Found PermissionsEx! Hooking in.
+25.01 18:07:24 [Server] INFO Enabling ForceField v3.4
+25.01 18:07:24 [Server] INFO ForceField V 3.4 starting...
+25.01 18:07:24 [Server] INFO Enabling BattlePass v1.0-SNAPSHOT
+25.01 18:07:24 [Server] INFO =============================
+25.01 18:07:24 [Server] INFO Enabling BattlePass....
+25.01 18:07:24 [Server] INFO Successfully loaded 100 challenges!
+25.01 18:07:24 [Server] INFO =============================
+25.01 18:07:24 [Server] INFO Enabling ViaVersion v1.6.0
+25.01 18:07:24 [Server] INFO Enabling Tablist v1.3.2.9
+25.01 18:07:24 [Server] INFO Tablist> You have installed PlaceholderAPI feel free to use it !
+25.01 18:07:24 [Server] INFO Tablist> Tablist v1.3.2.9 enabled!!
+25.01 18:07:24 [Server] INFO Enabling icJukeBox v1.6.4
+25.01 18:07:24 [Server] WARN Could not save configuration.yml to plugins/icJukeBox/configuration.yml because configuration.yml already exists.
+25.01 18:07:26 [Server] INFO Failed to load song-file Pokemon Battle Theme.nbs !
+25.01 18:07:26 [Server] WARN java.io.EOFException
+25.01 18:07:26 [Server] WARN at java.io.DataInputStream.readByte(DataInputStream.java:267)
+25.01 18:07:26 [Server] WARN at com.statiocraft.xxmicloxx.NoteBlockAPI.NBSDecoder.readString(NBSDecoder.java:109)
+25.01 18:07:26 [Server] WARN at com.statiocraft.xxmicloxx.NoteBlockAPI.NBSDecoder.parse(NBSDecoder.java:67)
+25.01 18:07:26 [Server] WARN at com.statiocraft.xxmicloxx.NoteBlockAPI.NBSDecoder.parse(NBSDecoder.java:12)
+25.01 18:07:26 [Server] WARN at com.statiocraft.jukebox.scJukeBox.reloadConfig(scJukeBox.java:114)
+25.01 18:07:26 [Server] WARN at com.statiocraft.jukebox.scJukeBox.onEnable(scJukeBox.java:49)
+25.01 18:07:26 [Server] WARN at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+25.01 18:07:26 [Server] WARN at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+25.01 18:07:26 [Server] WARN at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404)
+25.01 18:07:26 [Server] WARN at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+25.01 18:07:26 [Server] WARN at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+25.01 18:07:26 [Server] WARN at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+25.01 18:07:26 [Server] WARN at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+25.01 18:07:26 [Server] WARN at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+25.01 18:07:26 [Server] WARN at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+25.01 18:07:26 [Server] WARN at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+25.01 18:07:26 [Server] WARN at java.lang.Thread.run(Thread.java:748)
+25.01 18:07:26 [Server] INFO Enabling CoreProtect v2.12.0
+25.01 18:07:26 [Server] INFO CoreProtect version 2.12.0 is enabled!
+25.01 18:07:26 [Server] INFO Using SQLite for data storage.
+25.01 18:07:26 [Server] INFO Enabling WorldEdit v6.1.2;b3fbe8b
+25.01 18:07:26 [Server] INFO WEPIF: Using the Bukkit Permissions API.
+25.01 18:07:26 [Server] INFO Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+25.01 18:07:26 [Server] INFO Enabling Skript v2.2-dev37c
+25.01 18:07:26 [Server] WARN Using this version of Skript on 1.8 is highly discouraged.
+25.01 18:07:26 [Server] WARN Some features have been disabled; use older Skript to restore them.
+25.01 18:07:26 [Server] WARN Also, there are probably bugs. And since 1.8 is not supported, they will not be fixed
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 235! (aliases-english.sk, line 277: [white(_| )]glazed(_| )terracotta¦s = 235')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 236! (aliases-english.sk, line 278: orange(_| )glazed(_| )terracotta¦s = 236')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 237! (aliases-english.sk, line 279: magenta(_| )glazed(_| )terracotta¦s = 237')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 238! (aliases-english.sk, line 280: light(_| )blue(_| )glazed(_| )terracotta¦s = 238')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 239! (aliases-english.sk, line 281: yellow(_| )glazed(_| )terracotta¦s = 239')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 240! (aliases-english.sk, line 282: (lime|light(_| )green)(_| )glazed(_| )terracotta¦s = 240')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 241! (aliases-english.sk, line 283: pink(_| )glazed(_| )terracotta¦s = 241')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 242! (aliases-english.sk, line 284: gray(_| )glazed(_| )terracotta¦s = 242')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 243! (aliases-english.sk, line 285: light(_| )gray(_| )glazed(_| )terracotta¦s = 243')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 244! (aliases-english.sk, line 286: cyan(_| )glazed(_| )terracotta¦s = 244')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 245! (aliases-english.sk, line 287: purple(_| )glazed(_| )terracotta¦s = 245')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 246! (aliases-english.sk, line 288: blue(_| )glazed(_| )terracotta¦s = 246')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 247! (aliases-english.sk, line 289: brown(_| )glazed(_| )terracotta¦s = 247')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 248! (aliases-english.sk, line 290: green(_| )glazed(_| )terracotta¦s = 248')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 249! (aliases-english.sk, line 291: red(_| )glazed(_| )terracotta¦s = 249')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 250! (aliases-english.sk, line 292: black(_| )glazed(_| )terracotta¦s = 250')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 235! (aliases-english.sk, line 293: [<any>](_| )glazed(_| )terracotta¦s = 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 295: [white(_| )]concrete¦s = 251')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 296: orange(_| )concrete¦s = 251:1')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 297: magenta(_| )concrete¦s = 251:2')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 298: light(_| )blue(_| )concrete¦s = 251:3')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 299: yellow(_| )concrete¦s = 251:4')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 300: (lime|light(_| )green)(_| )concrete¦s = 251:5')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 301: pink(_| )concrete¦s = 251:6')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 302: gray(_| )concrete¦s = 251:7')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 303: light(_| )gray(_| )concrete¦s = 251:8')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 304: cyan(_| )concrete¦s = 251:9')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 305: purple(_| )concrete¦s = 251:10')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 306: blue(_| )concrete¦s = 251:11')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 307: brown(_| )concrete¦s = 251:12')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 308: green(_| )concrete¦s = 251:13')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 309: red(_| )concrete¦s = 251:14')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 310: black(_| )concrete¦s = 251:15')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 251! (aliases-english.sk, line 311: [<any>](_| )concrete¦s = 251, 251:1, 251:2, 251:3, 251:4, 251:5, 251:6, 251:7, 251:8, 251:9, 251:10, 251:11, 251:12, 251:13, 251:14, 251:15')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 313: [white(_| )]concrete(_| )powder¦s = 252')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 314: orange(_| )concrete(_| )powder¦s = 252:1')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 315: magenta(_| )concrete(_| )powder¦s = 252:2')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 316: light(_| )blue(_| )concrete(_| )powder¦s = 252:3')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 317: yellow(_| )concrete(_| )powder¦s = 252:4')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 318: (lime|light(_| )green)(_| )concrete(_| )powder¦s = 252:5')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 319: pink(_| )concrete(_| )powder¦s = 252:6')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 320: gray(_| )concrete(_| )powder¦s = 252:7')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 321: light(_| )gray(_| )concrete(_| )powder¦s = 252:8')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 322: cyan(_| )concrete(_| )powder¦s = 252:9')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 323: purple(_| )concrete(_| )powder¦s = 252:10')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 324: blue(_| )concrete(_| )powder¦s = 252:11')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 325: brown(_| )concrete(_| )powder¦s = 252:12')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 326: green(_| )concrete(_| )powder¦s = 252:13')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 327: red(_| )concrete(_| )powder¦s = 252:14')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 328: black(_| )concrete(_| )powder¦s = 252:15')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 329: [<any>](_| )concrete(_| )powder¦s = 252, 252:1, 252:2, 252:3, 252:4, 252:5, 252:6, 252:7, 252:8, 252:9, 252:10, 252:11, 252:12, 252:13, 252:14, 252:15')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 252! (aliases-english.sk, line 331: [white(_| )]bed(_| )item¦s = 252')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 453! (aliases-english.sk, line 350: knowledge(_| )book¦s = 453')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 218! (aliases-english.sk, line 353: observer¦s = 218')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 219! (aliases-english.sk, line 355: white(_| )shulker(_| )(box|chest)¦s = 219')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 220! (aliases-english.sk, line 356: orange(_| )shulker(_| )(box|chest)¦s = 220')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 221! (aliases-english.sk, line 357: magenta(_| )shulker(_| )(box|chest)¦s = 221')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 222! (aliases-english.sk, line 358: light(_| )blue(_| )shulker(_| )(box|chest)¦s = 222')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 223! (aliases-english.sk, line 359: yellow(_| )shulker(_| )(box|chest)¦s = 223')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 224! (aliases-english.sk, line 360: (lime|light(_| )green)(_| )shulker(_| )(box|chest)¦s = 224')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 225! (aliases-english.sk, line 361: pink(_| )shulker(_| )(box|chest)¦s = 225')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 226! (aliases-english.sk, line 362: gray(_| )shulker(_| )(box|chest)¦s = 226')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 227! (aliases-english.sk, line 363: light(_| )gray(_| )shulker(_| )(box|chest)¦s = 227')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 228! (aliases-english.sk, line 364: cyan(_| )shulker(_| )(box|chest)¦s = 228')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 229! (aliases-english.sk, line 365: [purple(_| )]shulker(_| )(box|chest)¦s = 229')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 230! (aliases-english.sk, line 366: blue(_| )shulker(_| )(box|chest)¦s = 230')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 231! (aliases-english.sk, line 367: brown(_| )shulker(_| )(box|chest)¦s = 231')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 232! (aliases-english.sk, line 368: green(_| )shulker(_| )(box|chest)¦s = 232')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 233! (aliases-english.sk, line 369: red(_| )shulker(_| )(box|chest)¦s = 233')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 234! (aliases-english.sk, line 370: black(_| )shulker(_| )(box|chest)¦s = 234')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 219! (aliases-english.sk, line 371: [<any>](_| )shulker(_| )(box|chest)¦s = 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 449! (aliases-english.sk, line 374: totem(_| )of(_| )undying¦s = 449')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 450! (aliases-english.sk, line 375: shulker(_| )shell¦s = 450')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 452! (aliases-english.sk, line 376: iron(_| )nugget¦s = 452')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 213! (aliases-english.sk, line 379: magma(_| )block¦s = 213')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 214! (aliases-english.sk, line 380: nether(_| )wart(_| )block¦s = 214')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 215! (aliases-english.sk, line 381: red(_| )nether(_| )brick¦s = 215')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 216! (aliases-english.sk, line 382: bone(_| )block¦s = 216')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 217! (aliases-english.sk, line 383: structure(_| )void¦s = 217')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 198! (aliases-english.sk, line 386: end[er](_| )rod¦s = 198')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 199! (aliases-english.sk, line 387: chorus(_| )plant¦s = 199')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 200! (aliases-english.sk, line 388: chorus(_| )flower¦s = 200')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 201! (aliases-english.sk, line 389: purpur(_| )block¦s = 201')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 202! (aliases-english.sk, line 390: purpur(_| )pillar¦s = 202')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 203! (aliases-english.sk, line 391: purpur(_| )stairs = 203')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 204! (aliases-english.sk, line 392: purpur(_| )double(_| )slab¦s = 204')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 205! (aliases-english.sk, line 393: purpur(_| )slab¦s = 205')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 206! (aliases-english.sk, line 394: endstone(_| )bricks = 206')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 207! (aliases-english.sk, line 395: beetroot(_| )block¦s = 207')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 208! (aliases-english.sk, line 396: grass(_| )path¦s = 208')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 209! (aliases-english.sk, line 397: ender(_| )gateway¦s = 209')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 210! (aliases-english.sk, line 398: repeating(_| )command(_| )block¦s = 210')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 211! (aliases-english.sk, line 399: chain(_| )command(_| )block¦s = 211')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 212! (aliases-english.sk, line 400: frosted(_| )ice¦s = 212')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 255! (aliases-english.sk, line 402: structure(_| )block¦s = 255')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 426! (aliases-english.sk, line 405: ender(_| )crystal¦s = 426')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 432! (aliases-english.sk, line 406: chorus(_| )fruit¦s = 432')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 433! (aliases-english.sk, line 407: popped(_| )chorus(_| )fruit¦s = 433')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 434! (aliases-english.sk, line 408: beetroot¦s = 434')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 435! (aliases-english.sk, line 409: beetroot(_| )seeds = 435')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 436! (aliases-english.sk, line 410: beetroot(_| )soup¦s = 436')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 437! (aliases-english.sk, line 411: dragon(_| )breath¦s = 437')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 438! (aliases-english.sk, line 412: splash(_| )water(_| )bottle¦s = 438')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 439! (aliases-english.sk, line 413: spectral(_| )arrow¦s = 439')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 440! (aliases-english.sk, line 414: tipped(_| )arrow¦s = 440')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 441! (aliases-english.sk, line 415: lingering(_| )water(_| )bottle¦s = 441')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 442! (aliases-english.sk, line 416: shield¦s = 442')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 443! (aliases-english.sk, line 417: elytra¦s = 443')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 444! (aliases-english.sk, line 418: spruce(_| )boat¦s = 444')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 445! (aliases-english.sk, line 419: birch(_| )boat¦s = 445')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 446! (aliases-english.sk, line 420: jungle(_| )boat¦s = 446')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 447! (aliases-english.sk, line 421: acacia(_| )boat¦s = 447')
+25.01 18:07:28 [Server] ERROR There doesn't exist a material with id 448! (aliases-english.sk, line 422: dark(_| )oak(_| )boat¦s = 448')
+25.01 18:07:28 [Server] INFO Loaded a total of 78602 english aliases
+25.01 18:07:28 [Server] INFO ~ created by & © Peter Güttinger aka Njol ~
+25.01 18:07:28 [Server] INFO Enabling ClearLag v2.9.7
+25.01 18:07:28 [Server] INFO Loading modules...
+25.01 18:07:28 [Server] INFO Modules enabed, loading config values
+25.01 18:07:28 [Server] INFO Modules have been loaded!
+25.01 18:07:28 [Server] INFO Clearlag is now enabled!
+25.01 18:07:28 [Server] INFO Checking for updates compatible with your bukkit version [1.8]...
+25.01 18:07:28 [Server] INFO Enabling SkQuery v3.6.0-Lime
+25.01 18:07:28 [Server] INFO Snooping enabled from com.w00tmast3r.skquery.SkQuery
+25.01 18:07:28 [Server] INFO Locating classes from SkQuery...
+25.01 18:07:28 [Server] INFO Finished snooping of SkQuery with 148 classes.
+25.01 18:07:28 [Server] INFO Beginning to process a total of 148 from SkQuery
+25.01 18:07:28 [Server] INFO No updates found!
+25.01 18:07:28 [Server] INFO Out of 148 classes, 144 classes were loaded from SkQuery
+25.01 18:07:28 [Server] INFO Enabling Votifier v1.9
+25.01 18:07:28 [Server] INFO Votifier enabled.
+25.01 18:07:28 [Server] INFO Enabling PermissionsEx v1.23.4
+25.01 18:07:28 [Server] INFO Initializing file backend
+25.01 18:07:28 [Server] INFO Permissions file successfully reloaded
+25.01 18:07:28 [Server] INFO WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+25.01 18:07:28 [Server] INFO [Vault][Permission] PermissionsEx hooked.
+25.01 18:07:28 [Server] INFO [Vault][Chat] PermissionsEx_Chat hooked.
+25.01 18:07:28 [Server] INFO Enabling AntiCheat v1.0
+25.01 18:07:28 [Server] INFO Enabling skript-mirror v0.19.1
+25.01 18:07:28 [Server] INFO Enabling PlayerParticles v4.5
+25.01 18:07:28 [Server] INFO Enabling HolographicDisplays v2.3.2
+25.01 18:07:28 [Server] INFO Enabled player relative placeholders with ProtocolLib.
+25.01 18:07:28 [Server] INFO Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:28 [Server] INFO (Hub) TNT ignition is PERMITTED.
+25.01 18:07:28 [Server] INFO (Hub) Lighters are PERMITTED.
+25.01 18:07:28 [Server] INFO (Hub) Lava fire is blocked.
+25.01 18:07:28 [Server] INFO (Hub) Fire spread is UNRESTRICTED.
+25.01 18:07:28 [Server] INFO Loaded configuration for world 'Hub'
+25.01 18:07:28 [Server] INFO (Hub_the_end) TNT ignition is PERMITTED.
+25.01 18:07:28 [Server] INFO (Hub_the_end) Lighters are PERMITTED.
+25.01 18:07:28 [Server] INFO (Hub_the_end) Lava fire is blocked.
+25.01 18:07:28 [Server] INFO (Hub_the_end) Fire spread is UNRESTRICTED.
+25.01 18:07:28 [Server] INFO Loaded configuration for world 'Hub_the_end'
+25.01 18:07:28 [Server] INFO Loading region data...
+25.01 18:07:28 [Server] INFO Enabling Vote v2.0.1
+25.01 18:07:28 [Server] INFO [Vote] Has been enabled!
+25.01 18:07:28 [Server] INFO Enabling ChestCommands v3.2.0
+25.01 18:07:29 [Server] INFO Enabling ArchonCrates v17.3
+25.01 18:07:29 [Server] INFO [==================================================================================================]
+25.01 18:07:29 [Server] INFO has been enabled!
+25.01 18:07:29 [Server] INFO Vault API:
+25.01 18:07:29 [Server] INFO You have Vault installed this will allow ArchonCrates to use the Economy system for
+25.01 18:07:29 [Server] INFO the buy signs and also use the sub commands feature for the crate loot!
+25.01 18:07:29 [Server] INFO [==================================================================================================]
+25.01 18:07:29 [Server] INFO Enabling skript-yaml v1.2.4
+25.01 18:07:29 [Server] INFO Enabling Essentials v2.15.0.60
+25.01 18:07:29 [Server] INFO Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+25.01 18:07:29 [Server] INFO Using legacy item data provider as spawn egg provider.
+25.01 18:07:29 [Server] INFO Using legacy potion meta provider as potion meta provider.
+25.01 18:07:29 [Server] INFO Using locale en_US
+25.01 18:07:29 [Server] INFO Using Spigot 1.7.10+ ServerListPingEvent iterator
+25.01 18:07:29 [Server] INFO Starting Metrics. Opt-out using the global bStats config.
+25.01 18:07:29 [Server] INFO [Vault][Economy] Essentials Economy hooked.
+25.01 18:07:29 [Server] INFO Using Vault based permissions (PermissionsEx)
+25.01 18:07:29 [Server] INFO Enabling LiteBans v2.2.4
+25.01 18:07:29 [Server] INFO Loading SQL driver: h2 (org.h2.Driver)
+25.01 18:07:29 [Server] INFO Connecting to database...
+25.01 18:07:29 [Server] INFO GeoIP support initialized.
+25.01 18:07:29 [Server] INFO Connected to [jdbc:h2:///plugins/LiteBans/litebans] (266.5 ms).
+25.01 18:07:29 [Server] INFO Database connection fully initialized (268.3 ms).
+25.01 18:07:29 [Server] INFO v2.2.4 enabled. Startup took 470 ms.
+25.01 18:07:29 [Server] INFO Enabling BuycraftX v11.0.0
+25.01 18:07:29 [Server] INFO Validating your server key...
+25.01 18:07:30 [Server] INFO Fetching all server packages...
+25.01 18:07:30 [Server] INFO Enabling SilkSpawners v5.0.2
+25.01 18:07:30 [Server] INFO WorldGuard was found and support is enabled
+25.01 18:07:30 [Server] INFO Loading support for v1_8_R3
+25.01 18:07:30 [Server] INFO AutoUpdater is enabled.
+25.01 18:07:30 [Server] INFO Result from AutoUpdater is: NO_UPDATE
+25.01 18:07:30 [Server] INFO BarAPI is disabled due to config setting.
+25.01 18:07:30 [Server] INFO Enabling Multiverse-Core v2.5.0-b727
+25.01 18:07:30 [Server] INFO -------- World Settings For [Factions] --------
+25.01 18:07:30 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:30 [Server] INFO Anti X-Ray: true
+25.01 18:07:30 [Server] INFO Engine Mode: 1
+25.01 18:07:30 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:30 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:30 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:30 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:30 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:30 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:30 [Server] INFO Random Lighting Updates: false
+25.01 18:07:30 [Server] INFO Structure Info Saving: true
+25.01 18:07:30 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:30 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:30 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:30 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:30 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:30 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:30 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:30 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:30 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:30 [Server] INFO View Distance: 10
+25.01 18:07:30 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:30 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:30 [Server] INFO Clear tick list: false
+25.01 18:07:30 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:30 [Server] INFO -------- World Settings For [Factions] --------
+25.01 18:07:30 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:30 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:30 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:30 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:30 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:30 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:30 [Server] INFO Fix TNT cannons: false
+25.01 18:07:30 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:30 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:30 [Server] INFO World async lighting: false
+25.01 18:07:30 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:30 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:30 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:30 [Server] INFO Preparing start region for level 2 (Seed: 1941830933035549923)
+25.01 18:07:30 [Server] INFO (Factions) TNT ignition is PERMITTED.
+25.01 18:07:30 [Server] INFO (Factions) Lighters are PERMITTED.
+25.01 18:07:30 [Server] INFO (Factions) Lava fire is blocked.
+25.01 18:07:30 [Server] INFO (Factions) Fire spread is UNRESTRICTED.
+25.01 18:07:30 [Server] INFO Loaded configuration for world 'Factions'
+25.01 18:07:30 [Server] WARN WorldManager: Can't load this world because the folder was deleted/moved: Nether
+25.01 18:07:30 [Server] WARN Use '/mv remove' to remove it from the config!
+25.01 18:07:30 [Server] INFO -------- World Settings For [SkyBlock] --------
+25.01 18:07:30 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:30 [Server] INFO Anti X-Ray: true
+25.01 18:07:30 [Server] INFO Engine Mode: 1
+25.01 18:07:30 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:30 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:30 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:30 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:30 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:30 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:30 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:30 [Server] INFO Random Lighting Updates: false
+25.01 18:07:30 [Server] INFO Structure Info Saving: true
+25.01 18:07:30 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:30 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:30 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:30 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:30 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:30 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:31 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:31 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:31 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:31 [Server] INFO View Distance: 10
+25.01 18:07:31 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:31 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:31 [Server] INFO Clear tick list: false
+25.01 18:07:31 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:31 [Server] INFO -------- World Settings For [SkyBlock] --------
+25.01 18:07:31 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:31 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:31 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:31 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:31 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:31 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:31 [Server] INFO Fix TNT cannons: false
+25.01 18:07:31 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:31 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:31 [Server] INFO World async lighting: false
+25.01 18:07:31 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:31 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:31 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:31 [Server] INFO Preparing start region for level 3 (Seed: 1129481756477388917)
+25.01 18:07:31 [Server] INFO (SkyBlock) TNT ignition is PERMITTED.
+25.01 18:07:31 [Server] INFO (SkyBlock) Lighters are PERMITTED.
+25.01 18:07:31 [Server] INFO (SkyBlock) Lava fire is blocked.
+25.01 18:07:31 [Server] INFO (SkyBlock) Fire spread is UNRESTRICTED.
+25.01 18:07:31 [Server] INFO Loaded configuration for world 'SkyBlock'
+25.01 18:07:31 [Server] INFO -------- World Settings For [MineWars] --------
+25.01 18:07:31 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:31 [Server] INFO Anti X-Ray: true
+25.01 18:07:31 [Server] INFO Engine Mode: 1
+25.01 18:07:31 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:31 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:31 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:31 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:31 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:31 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:31 [Server] INFO Random Lighting Updates: false
+25.01 18:07:31 [Server] INFO Structure Info Saving: true
+25.01 18:07:31 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:31 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:31 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:31 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:31 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:31 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:31 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:31 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:31 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:31 [Server] INFO View Distance: 10
+25.01 18:07:31 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:31 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:31 [Server] INFO Clear tick list: false
+25.01 18:07:31 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:31 [Server] INFO -------- World Settings For [MineWars] --------
+25.01 18:07:31 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:31 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:31 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:31 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:31 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:31 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:31 [Server] INFO Fix TNT cannons: false
+25.01 18:07:31 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:31 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:31 [Server] INFO World async lighting: false
+25.01 18:07:31 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:31 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:31 [Server] INFO BukkitPlotGenerator does not fully support: com.chaseoes.voidworld.VoidWorld$VoidWorldGenerator@41db0ab0
+25.01 18:07:31 [Server] INFO Preparing start region for level 4 (Seed: 2470029021929942871)
+25.01 18:07:31 [Server] INFO (MineWars) TNT ignition is PERMITTED.
+25.01 18:07:31 [Server] INFO (MineWars) Lighters are PERMITTED.
+25.01 18:07:31 [Server] INFO (MineWars) Lava fire is blocked.
+25.01 18:07:31 [Server] INFO (MineWars) Fire spread is UNRESTRICTED.
+25.01 18:07:31 [Server] INFO Loaded configuration for world 'MineWars'
+25.01 18:07:31 [Server] WARN WorldManager: Can't load this world because the folder was deleted/moved: Shootout
+25.01 18:07:31 [Server] WARN Use '/mv remove' to remove it from the config!
+25.01 18:07:31 [Server] INFO -------- World Settings For [SkyBlockNether] --------
+25.01 18:07:31 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:31 [Server] INFO Anti X-Ray: true
+25.01 18:07:31 [Server] INFO Engine Mode: 1
+25.01 18:07:31 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:31 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:31 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:31 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:31 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:31 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:31 [Server] INFO Random Lighting Updates: false
+25.01 18:07:31 [Server] INFO Structure Info Saving: true
+25.01 18:07:31 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:31 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:31 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:31 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:31 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:31 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:31 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:31 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:31 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:31 [Server] INFO View Distance: 10
+25.01 18:07:31 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:31 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:31 [Server] INFO Clear tick list: false
+25.01 18:07:31 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:31 [Server] INFO -------- World Settings For [SkyBlockNether] --------
+25.01 18:07:31 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:31 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:31 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:31 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:31 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:31 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:31 [Server] INFO Fix TNT cannons: false
+25.01 18:07:31 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:31 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:31 [Server] INFO World async lighting: false
+25.01 18:07:31 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:31 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:31 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:31 [Server] INFO Preparing start region for level 5 (Seed: -751207946691582640)
+25.01 18:07:31 [Server] INFO (SkyBlockNether) TNT ignition is PERMITTED.
+25.01 18:07:31 [Server] INFO (SkyBlockNether) Lighters are PERMITTED.
+25.01 18:07:31 [Server] INFO (SkyBlockNether) Lava fire is blocked.
+25.01 18:07:31 [Server] INFO (SkyBlockNether) Fire spread is UNRESTRICTED.
+25.01 18:07:31 [Server] INFO Loaded configuration for world 'SkyBlockNether'
+25.01 18:07:31 [Server] INFO -------- World Settings For [KitPVP] --------
+25.01 18:07:31 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:31 [Server] INFO Anti X-Ray: true
+25.01 18:07:31 [Server] INFO Engine Mode: 1
+25.01 18:07:31 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:31 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:31 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:31 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:31 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:31 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:31 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:31 [Server] INFO Random Lighting Updates: false
+25.01 18:07:31 [Server] INFO Structure Info Saving: true
+25.01 18:07:31 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:31 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:31 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:31 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:31 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:31 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:31 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:31 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:31 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:31 [Server] INFO View Distance: 10
+25.01 18:07:31 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:31 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:31 [Server] INFO Clear tick list: false
+25.01 18:07:31 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:31 [Server] INFO -------- World Settings For [KitPVP] --------
+25.01 18:07:31 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:31 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:31 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:31 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:31 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:31 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:31 [Server] INFO Fix TNT cannons: false
+25.01 18:07:31 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:31 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:31 [Server] INFO World async lighting: false
+25.01 18:07:31 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:31 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:31 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:31 [Server] INFO Preparing start region for level 6 (Seed: 100525548337483223)
+25.01 18:07:32 [Server] INFO (KitPVP) TNT ignition is PERMITTED.
+25.01 18:07:32 [Server] INFO (KitPVP) Lighters are PERMITTED.
+25.01 18:07:32 [Server] INFO (KitPVP) Lava fire is blocked.
+25.01 18:07:32 [Server] INFO (KitPVP) Fire spread is UNRESTRICTED.
+25.01 18:07:32 [Server] INFO Loaded configuration for world 'KitPVP'
+25.01 18:07:32 [Server] INFO -------- World Settings For [Survival] --------
+25.01 18:07:32 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:32 [Server] INFO Anti X-Ray: true
+25.01 18:07:32 [Server] INFO Engine Mode: 1
+25.01 18:07:32 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:32 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:32 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:32 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:32 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:32 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:32 [Server] INFO Random Lighting Updates: false
+25.01 18:07:32 [Server] INFO Structure Info Saving: true
+25.01 18:07:32 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:32 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:32 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:32 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:32 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:32 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:32 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:32 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:32 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:32 [Server] INFO View Distance: 10
+25.01 18:07:32 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:32 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:32 [Server] INFO Clear tick list: false
+25.01 18:07:32 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:32 [Server] INFO -------- World Settings For [Survival] --------
+25.01 18:07:32 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:32 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:32 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:32 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:32 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:32 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:32 [Server] INFO Fix TNT cannons: false
+25.01 18:07:32 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:32 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:32 [Server] INFO World async lighting: false
+25.01 18:07:32 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:32 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:32 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:32 [Server] INFO Preparing start region for level 7 (Seed: -8097664227069439405)
+25.01 18:07:32 [Server] INFO (Survival) TNT ignition is PERMITTED.
+25.01 18:07:32 [Server] INFO (Survival) Lighters are PERMITTED.
+25.01 18:07:32 [Server] INFO (Survival) Lava fire is blocked.
+25.01 18:07:32 [Server] INFO (Survival) Fire spread is UNRESTRICTED.
+25.01 18:07:32 [Server] INFO Loaded configuration for world 'Survival'
+25.01 18:07:32 [Server] INFO -------- World Settings For [BuildersWorld] --------
+25.01 18:07:32 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:32 [Server] INFO Anti X-Ray: true
+25.01 18:07:32 [Server] INFO Engine Mode: 1
+25.01 18:07:32 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:32 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:32 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:32 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:32 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:32 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:32 [Server] INFO Random Lighting Updates: false
+25.01 18:07:32 [Server] INFO Structure Info Saving: true
+25.01 18:07:32 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:32 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:32 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:32 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:32 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:32 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:32 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:32 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:32 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:32 [Server] INFO View Distance: 10
+25.01 18:07:32 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:32 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:32 [Server] INFO Clear tick list: false
+25.01 18:07:32 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:32 [Server] INFO -------- World Settings For [BuildersWorld] --------
+25.01 18:07:32 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:32 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:32 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:32 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:32 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:32 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:32 [Server] INFO Fix TNT cannons: false
+25.01 18:07:32 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:32 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:32 [Server] INFO World async lighting: false
+25.01 18:07:32 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:32 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:32 [Server] INFO BukkitPlotGenerator does not fully support: com.chaseoes.voidworld.VoidWorld$VoidWorldGenerator@723ee40a
+25.01 18:07:32 [Server] INFO Preparing start region for level 8 (Seed: -212021783342168379)
+25.01 18:07:32 [Server] INFO (BuildersWorld) TNT ignition is PERMITTED.
+25.01 18:07:32 [Server] INFO (BuildersWorld) Lighters are PERMITTED.
+25.01 18:07:32 [Server] INFO (BuildersWorld) Lava fire is blocked.
+25.01 18:07:32 [Server] INFO (BuildersWorld) Fire spread is UNRESTRICTED.
+25.01 18:07:32 [Server] INFO Loaded configuration for world 'BuildersWorld'
+25.01 18:07:32 [Server] INFO -------- World Settings For [Parkour] --------
+25.01 18:07:32 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:32 [Server] INFO Anti X-Ray: true
+25.01 18:07:32 [Server] INFO Engine Mode: 1
+25.01 18:07:32 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:32 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:32 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:32 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:32 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:32 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:32 [Server] INFO Random Lighting Updates: false
+25.01 18:07:32 [Server] INFO Structure Info Saving: true
+25.01 18:07:32 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:32 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:32 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:32 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:32 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:32 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:32 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:32 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:32 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:32 [Server] INFO View Distance: 10
+25.01 18:07:32 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:32 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:32 [Server] INFO Clear tick list: false
+25.01 18:07:32 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:32 [Server] INFO -------- World Settings For [Parkour] --------
+25.01 18:07:32 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:32 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:32 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:32 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:32 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:32 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:32 [Server] INFO Fix TNT cannons: false
+25.01 18:07:32 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:32 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:32 [Server] INFO World async lighting: false
+25.01 18:07:32 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:32 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:32 [Server] INFO BukkitPlotGenerator does not fully support: com.chaseoes.voidworld.VoidWorld$VoidWorldGenerator@25542cc0
+25.01 18:07:32 [Server] INFO Preparing start region for level 9 (Seed: -5582050923791777552)
+25.01 18:07:32 [Server] INFO (Parkour) TNT ignition is PERMITTED.
+25.01 18:07:32 [Server] INFO (Parkour) Lighters are PERMITTED.
+25.01 18:07:32 [Server] INFO (Parkour) Lava fire is blocked.
+25.01 18:07:32 [Server] INFO (Parkour) Fire spread is UNRESTRICTED.
+25.01 18:07:32 [Server] INFO Loaded configuration for world 'Parkour'
+25.01 18:07:32 [Server] INFO -------- World Settings For [Creative] --------
+25.01 18:07:32 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:32 [Server] INFO Anti X-Ray: true
+25.01 18:07:32 [Server] INFO Engine Mode: 1
+25.01 18:07:32 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:32 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:32 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:32 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:32 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:32 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:32 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:32 [Server] INFO Random Lighting Updates: false
+25.01 18:07:32 [Server] INFO Structure Info Saving: true
+25.01 18:07:32 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:32 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:32 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:32 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:32 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:32 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:32 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:32 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:32 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:32 [Server] INFO View Distance: 10
+25.01 18:07:32 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:32 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:32 [Server] INFO Clear tick list: false
+25.01 18:07:32 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:32 [Server] INFO -------- World Settings For [Creative] --------
+25.01 18:07:32 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:32 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:32 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:32 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:32 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:32 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:32 [Server] INFO Fix TNT cannons: false
+25.01 18:07:32 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:32 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:32 [Server] INFO World async lighting: false
+25.01 18:07:32 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:32 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:32 [Server] INFO Detected world load for 'Creative'
+25.01 18:07:32 [Server] INFO - generator: PlotSquared>PlotSquared
+25.01 18:07:32 [Server] INFO - plotworld: com.intellectualcrafters.plot.generator.HybridPlotWorld
+25.01 18:07:32 [Server] INFO - manager: com.intellectualcrafters.plot.generator.HybridPlotManager
+25.01 18:07:32 [Server] INFO - schematic: false
+25.01 18:07:32 [Server] INFO World possibly already loaded: Creative
+25.01 18:07:32 [Server] INFO Preparing start region for level 10 (Seed: 6078033531074155152)
+25.01 18:07:33 [Server] INFO (Creative) TNT ignition is PERMITTED.
+25.01 18:07:33 [Server] INFO (Creative) Lighters are PERMITTED.
+25.01 18:07:33 [Server] INFO (Creative) Lava fire is blocked.
+25.01 18:07:33 [Server] INFO (Creative) Fire spread is UNRESTRICTED.
+25.01 18:07:33 [Server] INFO Loaded configuration for world 'Creative'
+25.01 18:07:33 [Server] INFO -------- World Settings For [TTT] --------
+25.01 18:07:33 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:33 [Server] INFO Anti X-Ray: true
+25.01 18:07:33 [Server] INFO Engine Mode: 1
+25.01 18:07:33 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:33 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:33 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:33 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:33 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:33 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:33 [Server] INFO Random Lighting Updates: false
+25.01 18:07:33 [Server] INFO Structure Info Saving: true
+25.01 18:07:33 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:33 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:33 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:33 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:33 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:33 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:33 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:33 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:33 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:33 [Server] INFO View Distance: 10
+25.01 18:07:33 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:33 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:33 [Server] INFO Clear tick list: false
+25.01 18:07:33 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:33 [Server] INFO -------- World Settings For [TTT] --------
+25.01 18:07:33 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:33 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:33 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:33 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:33 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:33 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:33 [Server] INFO Fix TNT cannons: false
+25.01 18:07:33 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:33 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:33 [Server] INFO World async lighting: false
+25.01 18:07:33 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:33 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:33 [Server] INFO BukkitPlotGenerator does not fully support: com.chaseoes.voidworld.VoidWorld$VoidWorldGenerator@70c4ee9c
+25.01 18:07:33 [Server] INFO Preparing start region for level 11 (Seed: 189285202696274671)
+25.01 18:07:33 [Server] INFO (TTT) TNT ignition is PERMITTED.
+25.01 18:07:33 [Server] INFO (TTT) Lighters are PERMITTED.
+25.01 18:07:33 [Server] INFO (TTT) Lava fire is blocked.
+25.01 18:07:33 [Server] INFO (TTT) Fire spread is UNRESTRICTED.
+25.01 18:07:33 [Server] INFO Loaded configuration for world 'TTT'
+25.01 18:07:33 [Server] INFO -------- World Settings For [Event] --------
+25.01 18:07:33 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:33 [Server] INFO Anti X-Ray: true
+25.01 18:07:33 [Server] INFO Engine Mode: 1
+25.01 18:07:33 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:33 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:33 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:33 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:33 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:33 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:33 [Server] INFO Random Lighting Updates: false
+25.01 18:07:33 [Server] INFO Structure Info Saving: true
+25.01 18:07:33 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:33 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:33 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:33 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:33 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:33 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:33 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:33 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:33 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:33 [Server] INFO View Distance: 10
+25.01 18:07:33 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:33 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:33 [Server] INFO Clear tick list: false
+25.01 18:07:33 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:33 [Server] INFO -------- World Settings For [Event] --------
+25.01 18:07:33 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:33 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:33 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:33 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:33 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:33 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:33 [Server] INFO Fix TNT cannons: false
+25.01 18:07:33 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:33 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:33 [Server] INFO World async lighting: false
+25.01 18:07:33 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:33 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:33 [Server] INFO BukkitPlotGenerator does not fully support: com.chaseoes.voidworld.VoidWorld$VoidWorldGenerator@5f073a5b
+25.01 18:07:33 [Server] INFO Preparing start region for level 12 (Seed: 2374667126009377711)
+25.01 18:07:33 [Server] INFO (Event) TNT ignition is PERMITTED.
+25.01 18:07:33 [Server] INFO (Event) Lighters are PERMITTED.
+25.01 18:07:33 [Server] INFO (Event) Lava fire is blocked.
+25.01 18:07:33 [Server] INFO (Event) Fire spread is UNRESTRICTED.
+25.01 18:07:33 [Server] INFO Loaded configuration for world 'Event'
+25.01 18:07:33 [Server] INFO -------- World Settings For [SurvivalNether] --------
+25.01 18:07:33 [Server] INFO Mob Spawn Range: 4
+25.01 18:07:33 [Server] INFO Anti X-Ray: true
+25.01 18:07:33 [Server] INFO Engine Mode: 1
+25.01 18:07:33 [Server] INFO Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+25.01 18:07:33 [Server] INFO Replace Blocks: [1, 5]
+25.01 18:07:33 [Server] INFO Nerfing mobs spawned from spawners: false
+25.01 18:07:33 [Server] INFO Cactus Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Cane Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Melon Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Mushroom Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Pumpkin Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Sapling Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Wheat Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO NetherWart Growth Modifier: 100%
+25.01 18:07:33 [Server] INFO Entity Activation Range: An 32 / Mo 32 / Mi 16
+25.01 18:07:33 [Server] INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+25.01 18:07:33 [Server] INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+25.01 18:07:33 [Server] INFO Random Lighting Updates: false
+25.01 18:07:33 [Server] INFO Structure Info Saving: true
+25.01 18:07:33 [Server] INFO Sending up to 10 chunks per packet
+25.01 18:07:33 [Server] INFO Max Entity Collisions: 8
+25.01 18:07:33 [Server] INFO Custom Map Seeds:  Village: 10387312 Feature: 14357617
+25.01 18:07:33 [Server] INFO Max TNT Explosions: 100
+25.01 18:07:33 [Server] INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+25.01 18:07:33 [Server] INFO Item Despawn Rate: 6000
+25.01 18:07:33 [Server] INFO Item Merge Radius: 2.5
+25.01 18:07:33 [Server] INFO Arrow Despawn Rate: 1200
+25.01 18:07:33 [Server] INFO Allow Zombie Pigmen to spawn from portal blocks: true
+25.01 18:07:33 [Server] INFO View Distance: 10
+25.01 18:07:33 [Server] INFO Zombie Aggressive Towards Villager: true
+25.01 18:07:33 [Server] INFO Chunks to Grow per Tick: 650
+25.01 18:07:33 [Server] INFO Clear tick list: false
+25.01 18:07:33 [Server] INFO Experience Merge Radius: 3.0
+25.01 18:07:33 [Server] INFO -------- World Settings For [SurvivalNether] --------
+25.01 18:07:33 [Server] INFO Max height for cactus growth 3. Max height for reed growth 3
+25.01 18:07:33 [Server] INFO Squids will spawn between Y: 45.0 and Y: 63.0
+25.01 18:07:33 [Server] INFO Player blocking damage multiplier set to 0.5
+25.01 18:07:33 [Server] INFO Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+25.01 18:07:33 [Server] INFO Remove invalid mob spawner tile entities: true
+25.01 18:07:33 [Server] INFO Water over lava flow speed: 5
+25.01 18:07:33 [Server] INFO Fix TNT cannons: false
+25.01 18:07:33 [Server] INFO Allow undead horse types to be leashed: false
+25.01 18:07:33 [Server] INFO Keep spawn chunk loaded: true
+25.01 18:07:33 [Server] INFO World async lighting: false
+25.01 18:07:33 [Server] INFO WorldServer TickNextTick cap set at 10000
+25.01 18:07:33 [Server] INFO WorldServer TickNextTickList cap always processes redstone: false
+25.01 18:07:33 [Server] INFO BukkitPlotGenerator does not fully support: null
+25.01 18:07:33 [Server] INFO Preparing start region for level 13 (Seed: 6714908568446935087)
+25.01 18:07:33 [Server] INFO (SurvivalNether) TNT ignition is PERMITTED.
+25.01 18:07:33 [Server] INFO (SurvivalNether) Lighters are PERMITTED.
+25.01 18:07:33 [Server] INFO (SurvivalNether) Lava fire is blocked.
+25.01 18:07:33 [Server] INFO (SurvivalNether) Fire spread is UNRESTRICTED.
+25.01 18:07:33 [Server] INFO Loaded configuration for world 'SurvivalNether'
+25.01 18:07:33 [Server] INFO 14 - World(s) loaded.
+25.01 18:07:34 [Server] INFO Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+25.01 18:07:34 [Server] INFO Enabling InfoBoardReborn v2.0.4
+25.01 18:07:34 [Server] INFO InfoBoardReborn has been enabled (V.2.0.4)
+25.01 18:07:34 [Server] INFO Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+25.01 18:07:34 [Server] INFO Enabling KitBattle v4.1
+25.01 18:07:34 [Server] INFO Found PlaceholderAPI, Hooked: true
+25.01 18:07:34 [Server] INFO KITPVP Scoreboard title animation has been enabled and it contains 60 frame(s)!
+25.01 18:07:34 [Server] INFO Top signs updater is about to start!
+25.01 18:07:34 [Server] INFO Top signs updater has started!
+25.01 18:07:34 [Server] INFO has been enabled!
+25.01 18:07:34 [Server] INFO Enabling Shopkeepers v2.2.2
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': POLAR_BEAR
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': STRAY
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': WITHER_SKELETON
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': ZOMBIE_VILLAGER
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': HUSK
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': EVOKER
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': VEX
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': VINDICATOR
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': ILLUSIONER
+25.01 18:07:34 [Server] WARN Config: Invalid living entity type name in 'enabled-living-shops': PARROT
+25.01 18:07:34 [Server] WARN Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+25.01 18:07:34 [Server] INFO Loading data of 2 shopkeepers..
+25.01 18:07:34 [Server] INFO Enabling DiscordSRV v1.16.6
+25.01 18:07:34 [Server] INFO Enabling EssentialsChat v2.15.0.60
+25.01 18:07:34 [Server] INFO Enabling CrazyAuctions v1.2.4
+25.01 18:07:34 [Server] INFO Enabling Multiverse-Portals v2.5.0-b751
+25.01 18:07:34 [Server] INFO - Version 2.5.0-b751 Enabled - By Rigby and fernferret
+25.01 18:07:34 [Server] INFO 4 - Portals(s) loaded
+25.01 18:07:34 [Server] INFO Found WorldEdit. Using it for selections.
+25.01 18:07:34 [Server] INFO Enabling SuperVanish v6.1.0
+25.01 18:07:34 [Server] INFO Hooked into PlaceholderAPI
+25.01 18:07:34 [Server] INFO Hooked into Essentials
+25.01 18:07:34 [Server] INFO Hooked into Citizens
+25.01 18:07:34 [Server] INFO Enabling GriefPrevention v9.3
+25.01 18:07:34 [Server] INFO GriefPrevention: Grief Prevention boot start.
+25.01 18:07:34 [Server] INFO GriefPrevention: Error: PvP Configuration: There's no world named "Nether".  Please update your config.yml.
+25.01 18:07:34 [Server] INFO GriefPrevention: Error: PvP Configuration: There's no world named "Hub_nether".  Please update your config.yml.
+25.01 18:07:34 [Server] INFO GriefPrevention: Error: PvP Configuration: There's no world named "Bed-Wars".  Please update your config.yml.
+25.01 18:07:34 [Server] INFO GriefPrevention: Finished loading configuration.
+25.01 18:07:34 [Server] INFO GriefPrevention: 22 total claims loaded.
+25.01 18:07:35 [Server] INFO GriefPrevention: Customizable messages loaded.
+25.01 18:07:35 [Server] INFO GriefPrevention: Finished loading data (File Mode).
+25.01 18:07:35 [Server] INFO GriefPrevention: Cached 69 recent players.
+25.01 18:07:35 [Server] INFO GriefPrevention: Boot finished.
+25.01 18:07:35 [Server] INFO Enabling SharpSK v1.6.3
+25.01 18:07:35 [Server] INFO Enabling Metrics...
+25.01 18:07:35 [Server] INFO Metrics successfully enabled
+25.01 18:07:35 [Server] INFO Attempting to register Addon...
+25.01 18:07:35 [Server] INFO Attempting to register stuff...
+25.01 18:07:35 [Server] INFO Checking for any updates...
+25.01 18:07:35 [Server] INFO No Updates have been found
+25.01 18:07:35 [Server] INFO You are running on the latest version
+25.01 18:07:35 [Server] INFO Registering available hooks...
+25.01 18:07:35 [Server] INFO Hooked into CoreProtect v2.12.0
+25.01 18:07:35 [Server] INFO Hooked into PermissionsEx v1.23.4
+25.01 18:07:35 [Server] INFO Hooked into Multiverse v2.5.0-b727
+25.01 18:07:35 [Server] INFO Hooked into WorldEdit v6.1.2;b3fbe8b
+25.01 18:07:35 [Server] INFO Hooked into WorldGuard v6.1.2;b3fbe8b
+25.01 18:07:35 [Server] INFO Loading Complete!
+25.01 18:07:35 [Server] INFO Enabling skRayFall v1.9.14
+25.01 18:07:35 [Server] INFO Yay! You are running skRayFall 1.9.14!
+25.01 18:07:35 [Server] INFO Nathan and Lewis <3 you.
+25.01 18:07:35 [Server] INFO Cooking Bacon...
+25.01 18:07:35 [Server] INFO Getting more bacon for the army of citizens...
+25.01 18:07:35 [Server] INFO Got bacon for the EffectLib particle ninjas!
+25.01 18:07:35 [Server] INFO Getting more bacon for the Votifier runners!
+25.01 18:07:35 [Server] INFO Bacon holograms found
+25.01 18:07:35 [Server] INFO Client Side bacon holograms enabled
+25.01 18:07:35 [Server] INFO Enabling general 1.8+ bacon!
+25.01 18:07:35 [Server] INFO Getting the extra special 1.8.4 - 1.8.8 bacon!
+25.01 18:07:35 [Server] INFO Bacon is ready!
+25.01 18:07:35 [Server] INFO Enabling IslandWorld v8.0
+25.01 18:07:35 [Server] INFO Dynmap support disabled
+25.01 18:07:35 [Server] INFO Saved plugins/IslandWorld/messages_def.yml
+25.01 18:07:35 [Server] INFO Worlds info: SkyBlock/Hub[474.5/71/1315.5/0.0/0.0]
+25.01 18:07:35 [Server] INFO Using New Schematic Manager
+25.01 18:07:35 [Server] INFO Checking for updates
+25.01 18:07:35 [Server] INFO ########## IslandWorld update ##########
+25.01 18:07:35 [Server] INFO A new version of IslandWorld was found!
+25.01 18:07:35 [Server] INFO Version found: Island World v8.2
+25.01 18:07:35 [Server] INFO Version running: IslandWorld v8.0
+25.01 18:07:35 [Server] INFO #####################################
+25.01 18:07:35 [Server] INFO Loaded 9974 free islands.
+25.01 18:07:35 [Server] INFO Loaded 26 taken islands.
+25.01 18:07:35 [Server] INFO Loaded 2 helping players.
+25.01 18:07:35 [Server] INFO Loaded 4 points.
+25.01 18:07:35 [Server] INFO Plugin enabled.
+25.01 18:07:35 [Server] INFO Enabling Multiverse-Inventories v2.5.0-SNAPSHOT-b418
+25.01 18:07:35 [Server] INFO enabled.
+25.01 18:07:35 [Server] INFO Enabling Multiverse-NetherPortals v2.5-b675
+25.01 18:07:35 [Server] INFO - Version 2.5-b675 Enabled - By Rigby and fernferret
+25.01 18:07:35 [Server] INFO Enabling MultiWorldMoney v2.2
+25.01 18:07:35 [Server] INFO Multiverse-Core found.
+25.01 18:07:35 [Server] INFO Set up economy successfully
+25.01 18:07:35 [Server] INFO Set up permissions successfully
+25.01 18:07:35 [Server] WARN Could not recognize world world in groups.yml. Skipping...
+25.01 18:07:35 [Server] WARN Could not recognize world world_nether in groups.yml. Skipping...
+25.01 18:07:35 [Server] WARN Could not recognize world world_the_end in groups.yml. Skipping...
+25.01 18:07:35 [Server] INFO Enabling Skellett v1.9.6b
+25.01 18:07:36 [Server] INFO The item merge event is only for 1.9+ versions!
+25.01 18:07:36 [Server] INFO The offhand switch event is only for 1.9+ versions!
+25.01 18:07:36 [Server] INFO The breeding event is only for 1.10+ versions!
+25.01 18:07:36 [Server] INFO DiscordSRV is up-to-date. (e71256b97da5788b9adf84f9ede5cd45e791e668)
+25.01 18:07:36 [Server] INFO GravityState syntax is for 1.10+ spigot versions!
+25.01 18:07:36 [Server] INFO Syntax.Events.AnvilPrepare syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Language initialized as English
+25.01 18:07:36 [Server] INFO Thank you so much to these people for allowing DiscordSRV to grow to what it is: Ac3dUd3, Androkai, anton8604, buildblox, Bysokar, CoreyD97, DeeKay, Diamondman121314/DMAN, FataL, Foxy, geekhideout, Helmic, KaizenWorlds, LDSG Ghost, Mick, mikedmd, mikedmd again, Mitecraft, PChard, Rui, Ryan (The Loyal One), Sicnus
+25.01 18:07:36 [Server] INFO EntityScoreboardTag syntax is for 1.11+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.Books syntax is for 1.9R1+ spigot versions!
+25.01 18:07:36 [Server] INFO Unbreakable syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO TitleAndSubtitle syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Syntax.Events.BrewingFuel syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.Maps syntax is for 1.11+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.PrepareEnchant syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO InvulnerableState syntax is for 1.9R1+ spigot versions!
+25.01 18:07:36 [Server] INFO Unbreakable syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO GlideState syntax is for 1.10+ spigot versions!
+25.01 18:07:36 [Server] INFO SilentState syntax is for 1.10+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.Bossbars syntax is for 1.9R1+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.PrepareEnchant syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO LlamaInventory syntax is for 1.11+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.Books syntax is for 1.9R1+ spigot versions!
+25.01 18:07:36 [Server] INFO ItemCooldown syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Syntax.Expressions.Unbreakable syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO LlamaInventoryDecor syntax is for 1.11+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.PrepareEnchant syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Syntax.Events.AnvilPrepare syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO [JDA] Login Successful!
+25.01 18:07:36 [Server] INFO Syntax.Events.BrewingFuel syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO Main.PrepareEnchant syntax is for 1.11.2+ spigot versions!
+25.01 18:07:36 [Server] INFO LlamaColour syntax is for 1.11+ spigot versions!
+25.01 18:07:36 [Server] INFO SpectralArrow syntax is for 1.10+ spigot versions!
+25.01 18:07:36 [Server] INFO Registered 59 Effects, 22 Conditions, 156 Expressions and 20 Events
+25.01 18:07:36 [Server] INFO Failed to check for an update on spigot
+25.01 18:07:36 [Server] INFO Has been enabled!
+25.01 18:07:36 [Server] INFO Server permissions file permissions.yml is empty, ignoring it
+25.01 18:07:36 [Server] Startup Done (12.911s)! For help, type "help" or "?"
+25.01 18:07:36 [Server] INFO Timings Reset
+25.01 18:07:36 [Server] INFO ViaVersion detected server version: 1.8.x(47)
+25.01 18:07:36 [Server] INFO Enabling Paper/TacoSpigot/Torch patch: Fixes block placement.
+25.01 18:07:36 [Server] WARN Hologram 'emeraldgen' was in the world 'Bed-Wars' but it wasn't loaded.
+25.01 18:07:36 [Server] INFO Checking for updates...
+25.01 18:07:37 [Server] INFO [JDA] Connected to WebSocket
+25.01 18:07:37 [Server] INFO [JDA] Finished Loading!
+25.01 18:07:37 [Server] INFO Found server G:The Dwarven Community(519974477992296458)
+25.01 18:07:37 [Server] INFO - TC:announcements(526475407386607622)
+25.01 18:07:37 [Server] INFO - TC:server-links(522522747323023360)
+25.01 18:07:37 [Server] INFO - TC:server-suggestions(529050251890393088)
+25.01 18:07:37 [Server] INFO - TC:media-made-on-the-server(530536398344945695)
+25.01 18:07:37 [Server] INFO - TC:changelog(531580281803505705)
+25.01 18:07:37 [Server] INFO - TC:general(519974477992296460)
+25.01 18:07:37 [Server] INFO - TC:server-chat(528290388117553153)
+25.01 18:07:37 [Server] INFO - TC:bot-commands(537056851997753374)
+25.01 18:07:37 [Server] INFO - TC:gifs(534512496233545739)
+25.01 18:07:37 [Server] INFO - TC:survival-gamemode-chat(534900031648563200)
+25.01 18:07:37 [Server] INFO - TC:skyblock-gamemode-chat(534900191497814027)
+25.01 18:07:37 [Server] INFO - TC:creative-gamemode-channel(534900332732612608)
+25.01 18:07:37 [Server] INFO - TC:kitpvp-gamemode-channel(534900418648735744)
+25.01 18:07:37 [Server] INFO - TC:staff-chat(519976385746305024)
+25.01 18:07:37 [Server] INFO - TC:higher-ups-chat(523253737637281793)
+25.01 18:07:37 [Server] INFO - TC:staff-annoucements(523253956974215169)
+25.01 18:07:37 [Server] INFO - TC:builders-chat(530125530666893354)
+25.01 18:07:37 [Server] INFO Console channel ID was invalid, not forwarding console output
+25.01 18:07:37 [Server] INFO No chat plugin hooks enabled
+25.01 18:07:37 [Server] INFO You are running the most recent version!
+25.01 18:07:37 [Server] INFO Updating top signs!
+25.01 18:07:37 [Server] INFO Loading variables...
+25.01 18:07:37 [Server] INFO Loaded 66 variables in 0.0 seconds
+25.01 18:07:39 [Server] ERROR the 2nd argument is not a player/console (ttt.sk, line 10: send "&7[&4TTT - Gamemode&7]&e You're a Terrorist! Try and kill everyone without getting caught!" to arg 2')
+25.01 18:07:39 [Server] INFO Loaded 9 scripts with a total of 11 triggers and 20 commands in 2.43 seconds
+25.01 18:07:39 [Server] INFO Finished loading.
+25.01 18:07:39 [Server] INFO Loaded 0 NPCs.
+25.01 18:07:39 [Server] INFO Checking for Updates ... 
+25.01 18:07:39 [Server] INFO No new version available
+25.01 18:07:40 [Server] INFO Fetching all due players...
+25.01 18:07:40 [Server] INFO Starting UUID caching
+25.01 18:07:40 [Server] INFO Starting player data caching for: Hub
+25.01 18:07:40 [Server] INFO Fast mode UUID caching enabled!
+25.01 18:07:40 [Server] INFO Cached a total of: 20 UUIDs
+25.01 18:07:40 [Server] INFO Fetched due players (0 found).
+25.01 18:07:40 [Server] INFO 126 placeholder expansions are available on the cloud.
+25.01 18:07:40 [Server] INFO 1 installed expansions have updates available.
+25.01 18:07:45 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:45 [Server] INFO org.bukkit.event.EventException
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:07:45 [Server] INFO Caused by: java.lang.NoSuchFieldError: WHITE_SHULKER_BOX
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.util.Materials.<clinit>(Materials.java:53) ~[?:?]
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionFlagsListener.onPlaceBlock(RegionFlagsListener.java:66) ~[?:?]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO ... 24 more
+25.01 18:07:45 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:45 [Server] INFO org.bukkit.event.EventException
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:07:45 [Server] INFO Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sk89q.worldguard.bukkit.util.Materials
+25.01 18:07:45 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionProtectionListener.onPlaceBlock(RegionProtectionListener.java:178) ~[?:?]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:45 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:45 [Server] INFO ... 24 more
+25.01 18:07:50 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:50 [Server] INFO org.bukkit.event.EventException
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:07:50 [Server] INFO Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sk89q.worldguard.bukkit.util.Materials
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionFlagsListener.onPlaceBlock(RegionFlagsListener.java:66) ~[?:?]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO ... 24 more
+25.01 18:07:50 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:07:50 [Server] INFO org.bukkit.event.EventException
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:07:50 [Server] INFO Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sk89q.worldguard.bukkit.util.Materials
+25.01 18:07:50 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionProtectionListener.onPlaceBlock(RegionProtectionListener.java:178) ~[?:?]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:07:50 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:07:50 [Server] INFO ... 24 more
+25.01 18:08:00 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:08:00 [Server] INFO org.bukkit.event.EventException
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:08:00 [Server] INFO Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sk89q.worldguard.bukkit.util.Materials
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionFlagsListener.onPlaceBlock(RegionFlagsListener.java:66) ~[?:?]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO ... 24 more
+25.01 18:08:00 [Server] ERROR Could not pass event PlaceBlockEvent to WorldGuard v6.2.2-SNAPSHOT;8eeab68
+25.01 18:08:00 [Server] INFO org.bukkit.event.EventException
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.util.Events.fireToCancel(Events.java:74) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onBlockIgnite(EventAbstractionListener.java:453) [worldguard-bukkit-6.2.2.jar:?]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:501) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:486) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callBlockIgniteEvent(CraftEventFactory.java:807) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.BlockFire.b(BlockFire.java:197) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:684) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.WorldServer.doTick(WorldServer.java:249) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:830) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_181]
+25.01 18:08:00 [Server] INFO Caused by: java.lang.NoClassDefFoundError: Could not initialize class com.sk89q.worldguard.bukkit.util.Materials
+25.01 18:08:00 [Server] INFO at com.sk89q.worldguard.bukkit.listener.RegionProtectionListener.onPlaceBlock(RegionProtectionListener.java:178) ~[?:?]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181]
+25.01 18:08:00 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:300) ~[PaperSpigot1.8.8.1.jar:git-PaperSpigot-"8b18730"]
+25.01 18:08:00 [Server] INFO ... 24 more
